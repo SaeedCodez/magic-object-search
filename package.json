@@ -1,6 +1,6 @@
 {
   "name": "magic-obejct-search",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "🔍 Easy search among objects",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -26,7 +26,7 @@
     "json"
   ],
   "author": "SaeedCodez",
-  "homepage": "https://github.com/NimaCodez/keygen.js#readme",
+  "homepage": "https://github.com/SaeedCodez/magic-object-search",
   "license": "ISC",
   "devDependencies": {
     "ts-node": "^10.9.2",
