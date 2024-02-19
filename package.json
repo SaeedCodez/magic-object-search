@@ -1,0 +1,25 @@
+{
+  "name": "magic-obejct-search",
+  "version": "1.0.0",
+  "description": "🔍 Easy search among objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "obejct search",
+    "nodejs",
+    "find",
+    "search",
+    "match",
+    "replace",
+    "query",
+    "get",
+    "recursive",
+    "object",
+    "json"
+  ],
+  "author": "SaeedCodez",
+  "homepage": "https://github.com/NimaCodez/keygen.js#readme",
+  "license": "ISC"
+}
