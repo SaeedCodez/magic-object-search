@@ -2,8 +2,14 @@
   "name": "magic-obejct-search",
   "version": "1.0.0",
   "description": "🔍 Easy search among objects",
-  "main": "index.js",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
   "scripts": {
+    "build": "tsup",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -21,5 +27,10 @@
   ],
   "author": "SaeedCodez",
   "homepage": "https://github.com/NimaCodez/keygen.js#readme",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "tsup": "^8.0.2",
+    "typescript": "^5.3.3"
+  }
 }
