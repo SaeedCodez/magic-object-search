@@ -1,5 +1,5 @@
 {
-  "name": "magic-obejct-search",
+  "name": "magic-object-search",
   "version": "1.0.1",
   "description": "🔍 Easy search among objects",
   "main": "./dist/index.js",
@@ -13,7 +13,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "obejct search",
+    "object search",
     "nodejs",
     "find",
     "search",
