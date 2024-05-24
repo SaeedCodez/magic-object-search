@@ -48,8 +48,8 @@ console.log(searchResults);
 ```
 
 ## API
-`magicObjectSearch<T>(str: string, options: T[], properties: (keyof T)[]): T[]`
-* `str` (string): The string to search for within the specified properties of objects.
+`magicObjectSearch<T>(searchValue: string | number | boolean | null | undefined, options: T[], properties: (keyof T)[]): T[]`
+* `searchValue` (string | number | boolean | null | undefined): The value to search for within the specified properties of objects.
 * `options` (T[]): An array of objects to search within.
 * `properties` (keyof T)[]: An array of property names (keys) within objects to search for the given string.
 
