@@ -1,6 +1,6 @@
 {
   "name": "magic-object-search",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "🔍 Easy search among objects",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
